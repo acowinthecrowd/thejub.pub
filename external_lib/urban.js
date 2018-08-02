@@ -14,7 +14,7 @@ function random() {
     return urban();
 }
 
-urban.version = "0.3.0";
+urban.version = "0.3.1";
 
 function Dictionary(words) {
     if (randomWord == true && !arguments.length){
